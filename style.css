@@ -102,7 +102,10 @@ Utiliza las referencias de los breakpoints @media abajo */
 
 /*Tablet*/
 @media (min-width: 768px) {
-
+/*elementos esteticos*/
+body{
+    background:#00ffff;
+}
 /* Menú */
 
 /*title*/
@@ -119,7 +122,9 @@ Utiliza las referencias de los breakpoints @media abajo */
 
 /*Mobile*/
 @media (min-width: 425px) {
-
+/*body{
+    background:darkgrey;
+}*/
 /*Menu*/
 
 /*Titulo*/
